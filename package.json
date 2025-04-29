@@ -11,7 +11,7 @@
     "build": "tsc"
   },
   "keywords": [],
-  "author": "",
+  "author": "SatrioDev",
   "license": "ISC",
   "dependencies": {
     "@devraelfreeze/discordjs-pagination": "^2.7.6",
