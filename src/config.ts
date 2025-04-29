@@ -16,9 +16,9 @@ export default {
         username: "123me@fuckoff.com",
         password: null,
         auth: "microsoft",
-        version: "1.20",
+        version: "1.20.4",
         debug: false,
-        host: "donutsmp.net"
+        host: "sg2.nebulahost.fun:63487"
     },
     logMCChat: true,
     discordSRV: {
